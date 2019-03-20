@@ -1,36 +1,25 @@
 {
   "profiles": [
     {
-      "firstname": "Tom",
-      "lastname": "Jagger",
+      "firstname": "Ragavendra",
+      "lastname": "Thirtha",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Developer, Writer and Speaker",
+        "Shri Raghavendra (Śrī Rāghavēndra Tīrtha) (c.1595–c.1671) was a Hindu scholar, theologian and saint. He was also known as Sudha Parimalacharya (Sudhā Parimaḷācārya). His diverse oeuvre include commentaries on the works of Madhva, Jayatirtha and Vyasatirtha, interpretation of the Principal Upanishads from the standpoint of Dvaita and a treatise on Purva Mimamsa. He served as the pontiff of the Madhvacharya Mutt at Kumbakonam from 1624 to 1671.[1] Raghavendra was also an accomplished player of the Veena and he composed several songs under the name of Venu Gopala.[2] His tomb at Mantralayam (Brindavana) attracts thousands of visitors every year.",
+      "tagline": "Venkata Natha",
       "twitter": "https://twitter.com/",
-      "imgSrc": "tom-jagger.jpg",
-      "id": "tom"
+      "imgSrc": "Ragavendra.jpg",
+      "id": "SriRaga"
     },
 
     {
-      "firstname": "Sarah",
-      "lastname": "You",
+      "firstname": "Rajinikanth",
+      "lastname": "Gaekwad",
       "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "UX/UI Designer",
+        "Shivaji Rao Gaekwad (born 12 December 1950), known by his mononymous stage name Rajinikanth, is an Indian film actor and politician who works primarily in Tamil cinema. He began acting in plays while working in the Bangalore Transport Service as a bus conductor. In 1973, he joined the Madras Film Institute to pursue a diploma in acting. Following his debut in K. Balachander's Tamil drama Apoorva Raagangal (1975), his acting career commenced with a brief phase of portraying antagonistic characters in Tamil films.",
+      "tagline": "Shivaji Rao Gaekwad",
       "twitter": "https://twitter.com/",
-      "imgSrc": "sarah-you.jpg",
-      "id": "sarah"
-    },
-
-    {
-      "firstname": "Caroline",
-      "lastname": "Green",
-      "bio":
-        "Lorem ipsum dolor sit amet, oratio feugiat sed te, hinc ancillae cum ut. Ad explicari argumentum duo. Sea dicant iriure utroque ei, in duo meis solet. Eum id reque legendos prodesset, his ad solet ceteros. At pri duis recusabo ocurreret, saepe fabellas sed ad, at iudico constituam mel. \n\n Id zril intellegat efficiendi sed, at vel eros vidit. Modus signiferumque ex his, dicant consulatu definitionem ea has. Qui at ubique debitis, cu eripuit inciderint nam. Sit ei admodum interesset mediocritatem. Prima quando suavitate vel an, illum scaevola efficiendi vim ne.",
-      "tagline": "Consultant and Photographer",
-      "twitter": "https://twitter.com/",
-      "imgSrc": "caroline-green.jpg",
-      "id": "caroline"
+      "imgSrc": "Rajini.jpg",
+      "id": "Rajini"
     }
   ]
 }
